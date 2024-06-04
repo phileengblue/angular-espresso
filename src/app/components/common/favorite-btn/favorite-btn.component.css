@@ -1,0 +1,7 @@
+.favorite-btn {
+  cursor: pointer;
+  background: transparent;
+  outline: none;
+  border: none;
+  fill: var(--primary);
+}
